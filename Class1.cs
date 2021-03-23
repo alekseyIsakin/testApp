@@ -12,6 +12,7 @@ namespace testApp
     }
     class Class1<T>
     {
+        int n = 5;
         void GetT() {; }
     }
 }
