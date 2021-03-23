@@ -12,6 +12,5 @@ namespace testApp
     }
     class Class1<T>
     {
-        TestClass<string> test;
     }
 }
