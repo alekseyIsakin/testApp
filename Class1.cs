@@ -12,6 +12,6 @@ namespace testApp
     }
     class Class1<T>
     {
-        TestClass<string> test;
+        int try_ = 1;
     }
 }
