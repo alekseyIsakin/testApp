@@ -8,7 +8,6 @@ namespace testApp
 {
     ref struct TestClass<T>
     {
-        Span<T> Tspan;
     }
     class Class1<T>
     {
