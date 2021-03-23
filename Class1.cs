@@ -13,5 +13,6 @@ namespace testApp
     class Class1<T>
     {
         int try_ = 1;
+        int tryt_ = 2;
     }
 }
