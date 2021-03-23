@@ -12,6 +12,11 @@ namespace testApp
     }
     class Class1<T>
     {
+<<<<<<< HEAD
         string r = "";
+=======
+        int n = 5;
+        void GetT() {; }
+>>>>>>> 9d31978014478be69d3048edeb58591a83bb428b
     }
 }
