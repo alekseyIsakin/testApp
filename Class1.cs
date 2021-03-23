@@ -12,5 +12,6 @@ namespace testApp
     }
     class Class1<T>
     {
+        string r = "";
     }
 }
